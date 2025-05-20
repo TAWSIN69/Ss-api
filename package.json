@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-api-pro",
+  "version": "1.0.0",
+  "description": "Pro-level API to capture website screenshots using Puppeteer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8",
+    "express-rate-limit": "^6.7.0"
+  }
+}
